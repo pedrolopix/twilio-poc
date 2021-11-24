@@ -1,0 +1,9 @@
+<Response>
+    <Start>
+        <Stream name="Example Audio Stream" url="wss://lopix.ddns.net:8443/audiostream">
+            <Parameter name="interaction_id" value="lopix-1" />
+        </Stream>
+    </Start>
+    <Say>Stream audio started?</Say>
+    <Pause length="10"/>
+</Response>
