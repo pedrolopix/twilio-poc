@@ -1,16 +1,15 @@
 <Response>
-    <Pause length="10" />
+    <Pause length="1" />
     <Say>Hi</Say>
     <Pause length="1" />
-    <Say>I want to buy 21 robots named Xeu</Say>
-    <Pause length="1" />
-    <Say>I want to buy 21 robots named Rex</Say>
-    <Pause length="2" />
-    <Say>Change AI-Trainer intent model</Say>
-    <Pause length="2" />
     <Say>Your sofa is very pretty</Say>
     <Pause length="2" />
+    <Dial>+351964049767</Dial>
     <Say>Potatoes are love and life?</Say>
     <Pause length="60" />
+    <Dial>
+        <Conference>Room-test</Conference>
+        <Conference>22222</Conference>
+    </Dial>
 </Response>
 

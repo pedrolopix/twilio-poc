@@ -4,6 +4,4 @@
             <Parameter name="interaction_id" value="lopix-2" />
         </Stream>
     </Start>
-    <Say>Stream audio started!</Say>
-    <Pause length="10"/>
 </Response>
